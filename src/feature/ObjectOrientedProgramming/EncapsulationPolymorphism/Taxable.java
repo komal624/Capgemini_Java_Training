@@ -1,4 +1,6 @@
 package feature.ObjectOrientedProgramming.EncapsulationPolymorphism;
 
-public class Taxable {
+public interface Taxable {
+    double calculateTax();
 }
+

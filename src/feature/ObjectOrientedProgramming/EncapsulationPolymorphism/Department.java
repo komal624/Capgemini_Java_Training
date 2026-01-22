@@ -1,4 +1,6 @@
 package feature.ObjectOrientedProgramming.EncapsulationPolymorphism;
 
-public class Department {
+public interface Department {
+    void assignDepartment(String deptName);
+    String getDepartmentDetails();
 }

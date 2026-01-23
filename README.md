@@ -58,3 +58,40 @@ We started working on Object-Oriented Programming in Java.
 - Method definitions and usage  
 - Basic OOP-based programs  
 - Organizing code using a structured folder and branch-based workflow in Git  
+
+---
+
+## 14th January 2026
+Continued working on Object-Oriented Programming in java.
+
+**Topics and practice included:**
+- Java Constructors, Instance vs Class variables 
+- Cocepts of Access Modifiers
+- this, Static, InstanceOFoperator
+
+---
+
+## 16th January 2026
+Organised Git structure and files in proper way 
+
+**Activities Included:**
+- Editing programs adding multiline comments
+- ensuring proper structure of git
+
+---
+## 17th January 2026
+continued the same task of 16th January 
+
+**Activities Included:**
+- Complteing the16th January task
+
+---
+
+## 19th January 2026
+Completing all the ObjectOriented Programming
+
+**Topics and Practice Included:**
+- Inheritence concepts 
+- Encapsuation
+- Polymorphism
+- Object Modeling , class Diagram 

@@ -94,4 +94,42 @@ Completing all the ObjectOriented Programming
 - Inheritence concepts 
 - Encapsuation
 - Polymorphism
-- Object Modeling , class Diagram 
+- Object Modeling , class Diagram
+
+---
+
+## 20th January 2026
+Started with Data Structure and alagorithm
+
+**Topics and Practices Included:**
+- Linked list
+- double , Single, Circular list
+
+---
+## 21th January 2026
+Continued with Data Structure and algorithm 
+
+**Topics and Practice Included:**
+- Stack and Queue
+- HashMap
+- Hashing Function
+
+---
+
+## 22th January 2026
+Studied other topics of Data Structure
+
+**Topic and Practice Included:**
+- Sorting Algorithm
+- Linear and Binary Search
+
+---
+
+## 23th January 2026
+Completed with Data structure Topics
+
+**Topics and Practice Included:**
+- Algorithm Runtime Analysis
+- Big o notations
+
+---

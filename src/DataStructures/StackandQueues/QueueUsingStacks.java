@@ -1,5 +1,6 @@
 package DataStructures.StackandQueues;
 
+// stack and queues programs
 
 import java.util.Stack;
 

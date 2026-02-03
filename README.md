@@ -106,7 +106,7 @@ Started with Data Structure and alagorithm
 - double , Single, Circular list
 
 ---
-## 21th January 2026
+## 21st January 2026
 Continued with Data Structure and algorithm 
 
 **Topics and Practice Included:**
@@ -116,7 +116,7 @@ Continued with Data Structure and algorithm
 
 ---
 
-## 22th January 2026
+## 22nd January 2026
 Studied other topics of Data Structure
 
 **Topic and Practice Included:**
@@ -131,5 +131,76 @@ Completed with Data structure Topics
 **Topics and Practice Included:**
 - Algorithm Runtime Analysis
 - Big o notations
+
+---
+
+## 24th January 2026
+Started with assignment OOPS Banner App
+
+**Topics and Practice Included:**
+- Java OOPS fundamentals (class design, methods, console I/O)
+- String handling and banner rendering
+- Arrays, loops, and basic data mapping
+- Incremental development using UC1–UC8
+- Git & GitFlow workflow (feature branches, merges, clean history)
+- Professional project documentation and version control practices
+
+---
+
+## 27th January 2026
+Started with Java Genrics
+
+**Topics and Practice Included:**
+- Introduction to Generics
+- Type Parameters
+- Generic Classes
+- Generic Methods
+- Bounded Type Parameters
+- Wildcards
+
+---
+
+## 28th January 2026
+Started with Java Collections Framework
+
+**Topics and practice Included:**
+- Overview of Collections Framework
+- List Interface and Implementing Classes
+- Set Interface and Implementing Classes
+- Queue and Deque Interfaces
+- Map Interface and Its Implementations
+- Comparison of Different Implementations
+- Real-World Use Cases and Best Practices
+
+---
+
+## 29th January 2026
+Developed a Factory Robot Hazard analyzer
+
+**Topics and practice Included:**
+- Factory Robot Hazard Analyzer is a console-based system that evaluates a robot’s hazard risk score using arm precision, worker density, and machinery state. It validates all inputs, computes the risk score using defined rules, and handles invalid or unsafe scenarios through a custom exception mechanism to ensure reliable and safe operation.
+
+---
+
+## 30th January 2026 
+Completeing all the pending task of java generic and collections
+
+**Acitivites Included:**
+- Completed the pending task of Week 4
+
+---
+
+## 31st January 2026
+Started with Java IO streams
+
+**Activities Included:**
+- Java I/O Streams
+- Types of Streams
+1. File Streams
+2. Object Streams
+3. ByteArray Streams
+4. Buffered Streams
+5. Reader and Writer
+- Key Considerations
 
 ---

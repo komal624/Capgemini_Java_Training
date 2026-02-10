@@ -204,3 +204,21 @@ Started with Java IO streams
 - Key Considerations
 
 ---
+
+## 2nd January 
+Started with Exceptions in Java
+
+**Topics and Practice Included:**
+- Exceptions
+- Types of Exceptions
+1.Checked Exceptions,
+2.Unchecked Exceptions
+3.Custom Exceptions
+- Handling Exceptions 
+1.try-catch blocks
+2.try-catch-finally blocks
+3.try-with-resources statement
+4.throws clause
+5.throw statement
+- Creating Custom Exceptions
+- Extending Exception Class

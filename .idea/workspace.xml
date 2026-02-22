@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0ce17049-c6bd-4586-a601-7b245959bc3e" name="Changes" comment="[Komal] : Added : java regex and junit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="feature/CoreProgramming" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;komal624&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/komal624/BridgeLabz_Java.git&quot;,
+    &quot;accountId&quot;: &quot;d25fc058-5563-4021-a9ee-4c486079982a&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="387WwAdDlbe5DvFmYEDVBskImmT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AbundantNumber.executor": "Run",
+    "Application.AgeFinder.executor": "Run",
+    "Application.Anagram.executor": "Run",
+    "Application.Animal.executor": "Run",
+    "Application.ArmstrongNumber.executor": "Run",
+    "Application.ArrayIndexOutOfBounds.executor": "Run",
+    "Application.ArraySumLimit.executor": "Run",
+    "Application.AthleteRoundsCalculator.executor": "Run",
+    "Application.AverageCalculator.executor": "Run",
+    "Application.AveragePCMMarks.executor": "Run",
+    "Application.BMI.executor": "Run",
+    "Application.BMICalculator.executor": "Run",
+    "Application.BMICalculator2D.executor": "Run",
+    "Application.Bank.executor": "Run",
+    "Application.BankAccount.executor": "Run",
+    "Application.BankTransactionApp.executor": "Run",
+    "Application.BankingApp.executor": "Run",
+    "Application.BasicCalculator.executor": "Run",
+    "Application.Bird.executor": "Run",
+    "Application.Book.executor": "Run",
+    "Application.BubbleSortStudentMarks.executor": "Run",
+    "Application.Calendar.executor": "Run",
+    "Application.CarRental.executor": "Run",
+    "Application.Cards.executor": "Run",
+    "Application.Cat.executor": "Run",
+    "Application.CelsiustoFarenheit.executor": "Run",
+    "Application.CharFrequency.executor": "Run",
+    "Application.CharType.executor": "Run",
+    "Application.CheckedExceptionApp.executor": "Run",
+    "Application.Circle.executor": "Run",
+    "Application.CircleAreaCalculator.executor": "Run",
+    "Application.CircularTour.executor": "Run",
+    "Application.Company.executor": "Run",
+    "Application.ConvertCSVToObjects.executor": "Run",
+    "Application.CountRows.executor": "Run",
+    "Application.CountingSortStudentAges.executor": "Run",
+    "Application.CustomExceptionApp.executor": "Run",
+    "Application.DataStructureSearch.executor": "Run",
+    "Application.DetectDuplicateRecords.executor": "Run",
+    "Application.DigitCounter.executor": "Run",
+    "Application.DigitFrequency.executor": "Run",
+    "Application.DistanceConverter.executor": "Run",
+    "Application.DivisibleByFive.executor": "Run",
+    "Application.DoubleOperations.executor": "Run",
+    "Application.EBook.executor": "Run",
+    "Application.ECommerceSystem.executor": "Run",
+    "Application.EarthVolumeCalculator.executor": "Run",
+    "Application.Employee.executor": "Run",
+    "Application.EmployeeApp.executor": "Run",
+    "Application.EmployeeBonusCalculator.executor": "Run",
+    "Application.EmployeeSystem.executor": "Run",
+    "Application.ErrorLineReaderApp.executor": "Run",
+    "Application.EvenOddChecker.executor": "Run",
+    "Application.ExceptionPropagationApp.executor": "Run",
+    "Application.FactorFinder.executor": "Run",
+    "Application.FactorOperations.executor": "Run",
+    "Application.FactorialCalculator.executor": "Run",
+    "Application.FactorialCalculatorMethod.executor": "Run",
+    "Application.FactorsForLoop.executor": "Run",
+    "Application.FactorsWhileLoop.executor": "Run",
+    "Application.FeeDiscountCalculator.executor": "Run",
+    "Application.FibonacciComparison.executor": "Run",
+    "Application.FibonacciSeries.executor": "Run",
+    "Application.FileCopyApp.executor": "Run",
+    "Application.FilterStudents.executor": "Run",
+    "Application.FinallyBlockApp.executor": "Run",
+    "Application.FindCharacterOccurrences.executor": "Run",
+    "Application.FirstLastOccurrence.executor": "Run",
+    "Application.FirstNegative.executor": "Run",
+    "Application.FirstSmallestChecker.executor": "Run",
+    "Application.FirstUnique.executor": "Run",
+    "Application.FizzBuzzArray.executor": "Run",
+    "Application.FizzBuzzFor.executor": "Run",
+    "Application.FizzBuzzWhile.executor": "Run",
+    "Application.Game.executor": "Run",
+    "Application.GenerateCSVFromDatabase.executor": "Run",
+    "Application.GradeCalculator.executor": "Run",
+    "Application.Grades.executor": "Run",
+    "Application.GreatestFactorFor.executor": "Run",
+    "Application.GreatestFactorWhile.executor": "Run",
+    "Application.HarshadNumber.executor": "Run",
+    "Application.HeapSortSalaryDemands.executor": "Run",
+    "Application.HeightConverter.executor": "Run",
+    "Application.HotelBooking.executor": "Run",
+    "Application.IllegalArgumentExceptionHandler.executor": "Run",
+    "Application.ImageByteArrayApp.executor": "Run",
+    "Application.InsertionSortEmployeeIDs.executor": "Run",
+    "Application.InsuranceApp.executor": "Run",
+    "Application.IntOperations.executor": "Run",
+    "Application.Intern.executor": "Run",
+    "Application.InventorySystem.executor": "Run",
+    "Application.Item.executor": "Run",
+    "Application.KilometerToMiles.executor": "Run",
+    "Application.LargestNumberChecker.executor": "Run",
+    "Application.LargestSecondLargest.executor": "Run",
+    "Application.LargestSecondLargestDynamic.executor": "Run",
+    "Application.LeapYear.executor": "Run",
+    "Application.LeapYearChecker.executor": "Run",
+    "Application.LeapYearLogical.executor": "Run",
+    "Application.Library.executor": "Run",
+    "Application.LibraryBook.executor": "Run",
+    "Application.LibrarySystem.executor": "Run",
+    "Application.LongestConsecutiveSequence.executor": "Run",
+    "Application.Lowercase.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Manager.executor": "Run",
+    "Application.MarketplaceApp.executor": "Run",
+    "Application.MatrixSearch.executor": "Run",
+    "Application.MaximumFinder.executor": "Run",
+    "Application.MaximumNumber.executor": "Run",
+    "Application.MealApp.executor": "Run",
+    "Application.MeanHeightCalculator.executor": "Run",
+    "Application.MergeSortBookPrices.executor": "Run",
+    "Application.MergeStudentFiles.executor": "Run",
+    "Application.MethodCalculator.executor": "Run",
+    "Application.MobilePhone.executor": "Run",
+    "Application.Motorcycle.executor": "Run",
+    "Application.MovieList.executor": "Run",
+    "Application.MultipleCatchApp.executor": "Run",
+    "Application.MultiplicationTable.executor": "Run",
+    "Application.MultiplicationTableSixToNine.executor": "Run",
+    "Application.MyHashMap.executor": "Run",
+    "Application.NestedTryCatchApp.executor": "Run",
+    "Application.NullPointerDemo.executor": "Run",
+    "Application.NumberAnalysis.executor": "Run",
+    "Application.NumberFormatExceptionHandler.executor": "Run",
+    "Application.NumberNatureChecker.executor": "Run",
+    "Application.NumberProperties.executor": "Run",
+    "Application.NumberReverse.executor": "Run",
+    "Application.OddEvenArray.executor": "Run",
+    "Application.OddEvenNumbers.executor": "Run",
+    "Application.OnlineCourseManagement.executor": "Run",
+    "Application.PairWithGivenSum.executor": "Run",
+    "Application.Palindrome.executor": "Run",
+    "Application.PalindromeChecker.executor": "Run",
+    "Application.PasswordValidator.executor": "Run",
+    "Application.Patient.executor": "Run",
+    "Application.PeakElement.executor": "Run",
+    "Application.PenDistribution.executor": "Run",
+    "Application.Person.executor": "Run",
+    "Application.PipedStreamApp.executor": "Run",
+    "Application.Polynomial.executor": "Run",
+    "Application.PostgraduateStudent.executor": "Run",
+    "Application.PowerCalc.executor": "Run",
+    "Application.PowerCalculator.executor": "Run",
+    "Application.PrimeChecker.executor": "Run",
+    "Application.PrimeNumberChecker.executor": "Run",
+    "Application.ProcessLargeCSV.executor": "Run",
+    "Application.Product.executor": "Run",
+    "Application.ProfitLossFinder.executor": "Run",
+    "Application.QueueUsingStacks.executor": "Run",
+    "Application.QuickSortProductPrices.executor": "Run",
+    "Application.QuotientRemainder.executor": "Run",
+    "Application.ReadCSV.executor": "Run",
+    "Application.Rectangle.executor": "Run",
+    "Application.ReverseList.executor": "Run",
+    "Application.ReverseNumber.executor": "Run",
+    "Application.ReverseNumberArray.executor": "Run",
+    "Application.RocketCountdownFor.executor": "Run",
+    "Application.RocketCountdownWhile.executor": "Run",
+    "Application.RotationPoint.executor": "Run",
+    "Application.RoundRobin.executor": "Run",
+    "Application.SavingsAccount.executor": "Run",
+    "Application.SearchComparison.executor": "Run",
+    "Application.SearchEmployee.executor": "Run",
+    "Application.SearchSentence.executor": "Run",
+    "Application.SelectionSortExamScores.executor": "Run",
+    "Application.ShortestLongest.executor": "Run",
+    "Application.SimpleInterestCalculator.executor": "Run",
+    "Application.SlidingWindowMaximum.executor": "Run",
+    "Application.SocialNetwork.executor": "Run",
+    "Application.SortEmployeesBySalary.executor": "Run",
+    "Application.SortStack.executor": "Run",
+    "Application.SortingComparison.executor": "Run",
+    "Application.SplitWords.executor": "Run",
+    "Application.StockSpan.executor": "Run",
+    "Application.StringIndexOutOfBoundsDemo.executor": "Run",
+    "Application.StringLength.executor": "Run",
+    "Application.StringPerformance.executor": "Run",
+    "Application.StringToCharArray.executor": "Run",
+    "Application.Student.executor": "Run",
+    "Application.StudentDataApp.executor": "Run",
+    "Application.StudentGrades.executor": "Run",
+    "Application.StudentGrades2D.executor": "Run",
+    "Application.StudentList.executor": "Run",
+    "Application.SubstringUsingCharAt.executor": "Run",
+    "Application.SumNaturalNumbers.executor": "Run",
+    "Application.SumOfDigits.executor": "Run",
+    "Application.SumOfNaturalNumbers.executor": "Run",
+    "Application.SwapTwoNumbers.executor": "Run",
+    "Application.SwitchCalculator.executor": "Run",
+    "Application.TaskScheduler.executor": "Run",
+    "Application.TemperatureConverter.executor": "Run",
+    "Application.TextEditor.executor": "Run",
+    "Application.ThrowVsThrowsApp.executor": "Run",
+    "Application.TicketSystem.executor": "Run",
+    "Application.TotalIncomeCalculator.executor": "Run",
+    "Application.TravelComputationInput.executor": "Run",
+    "Application.TriangleArea.executor": "Run",
+    "Application.TrimText.executor": "Run",
+    "Application.TryWithResourcesApp.executor": "Run",
+    "Application.TwoDToOneDArray.executor": "Run",
+    "Application.TwoSum.executor": "Run",
+    "Application.UncheckedExceptionApp.executor": "Run",
+    "Application.UniqueChars.executor": "Run",
+    "Application.UnitConverter1.executor": "Run",
+    "Application.UnitConverter2.executor": "Run",
+    "Application.UnitConverter3.executor": "Run",
+    "Application.UniversityApp.executor": "Run",
+    "Application.UniversityFeeDiscount.executor": "Run",
+    "Application.UpdateEmployeeSalary.executor": "Run",
+    "Application.UpperToLowerApp.executor": "Run",
+    "Application.Uppercase.executor": "Run",
+    "Application.ValidateCSVData.executor": "Run",
+    "Application.Vehicle.executor": "Run",
+    "Application.VehicleRegistration.executor": "Run",
+    "Application.Voting.executor": "Run",
+    "Application.VotingEligibility.executor": "Run",
+    "Application.VowelConsonantCounter.executor": "Run",
+    "Application.VowelCount.executor": "Run",
+    "Application.WarehouseDemo.executor": "Run",
+    "Application.WordLengthTable.executor": "Run",
+    "Application.WriteCSV.executor": "Run",
+    "Application.YoungestAndTallest.executor": "Run",
+    "Application.ZeroSumSubarrays.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "#5 on DataStructures",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/komal bhardwaj/IdeaProjects/BridgeLabz_Java_CG/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "inlay.hints",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\komal bhardwaj\IdeaProjects\BridgeLabz_Java_CG\src\DataStructures\Sorting" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ce17049-c6bd-4586-a601-7b245959bc3e" name="Changes" comment="" />
+      <created>1768151336215</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1768151336215</updated>
+    </task>
+    <task id="LOCAL-00001" summary="[Komal] : Added : java8features">
+      <option name="closed" value="true" />
+      <created>1770569605585</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1770569605585</updated>
+    </task>
+    <task id="LOCAL-00002" summary="[Komal] : Added : java regex and junit">
+      <option name="closed" value="true" />
+      <created>1770569789686</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1770569789686</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[Komal] : Added : java8features" />
+    <MESSAGE value="[Komal] : Added : java regex and junit" />
+    <option name="LAST_COMMIT_MESSAGE" value="[Komal] : Added : java regex and junit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../BridgeLabz_Java/src/Main.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/feature/CSVDataHandling/FilterStudents.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/BridgeLabz_Java_CG$CircularTour.ic" NAME="CircularTour Coverage Results" MODIFIED="1769061414708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>DataStructures.StackandQueues.*</FILTER>
+    </SUITE>
+  </component>
+</project>
